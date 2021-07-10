@@ -32,6 +32,7 @@ Repo for myself to learn GitHub &amp; all about SwiftUI.
             .fill(Color.white)
             .frame(width: 100, height: 50)
             
-* tip : if you want to give a Rectange rounded corners, use RoundedRectangle() not Rectangle()!
+* tip : if you want to give a Rectange rounded corners, use RoundedRectangle() not Rectangle()! 
+        * https://stackoverflow.com/questions/62970198/trying-to-give-a-border-a-corner-radius-in-swiftui
 ---
 
