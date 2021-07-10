@@ -2,9 +2,7 @@
 Repo for myself to learn GitHub &amp; all about SwiftUI.
 
 - Images 
-- Jobs 
-- stuffs
- 
+
 ---
 **IMAGES** https://developer.apple.com/documentation/swiftui/image
 
@@ -36,3 +34,4 @@ Repo for myself to learn GitHub &amp; all about SwiftUI.
             .fill(Color.white)
             .frame(width: 100, height: 50)
 ---
+- Jobs 
