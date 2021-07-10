@@ -1,8 +1,6 @@
 # swift-howto
 Repo for myself to learn GitHub &amp; all about SwiftUI.
 
-- Images 
-
 ---
 **IMAGES** https://developer.apple.com/documentation/swiftui/image
 
@@ -33,5 +31,7 @@ Repo for myself to learn GitHub &amp; all about SwiftUI.
         Circle()
             .fill(Color.white)
             .frame(width: 100, height: 50)
+            
+* tip : if you want to give a Rectange rounded corners, use RoundedRectangle() not Rectangle()!
 ---
-- Jobs 
+
