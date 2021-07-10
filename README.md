@@ -39,7 +39,7 @@ Repo for myself to learn GitHub &amp; all about SwiftUI.
 ---
 
 ---
-**FOR IN LOOPS**
+**FOR IN LOOPS** https://docs.swift.org/swift-book/LanguageGuide/ControlFlow.html
 ---
 You use the for-in loop to iterate over a sequence, such as items in an array, ranges of numbers, or characters in a string.
 
