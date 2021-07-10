@@ -3,7 +3,7 @@ Repo for myself to learn GitHub &amp; all about SwiftUI.
 
 ---
 **IMAGES** https://developer.apple.com/documentation/swiftui/image
-
+---
         Image("Landscape_4")
           .resizable()
           .aspectRatio(contentMode: .fit)
@@ -11,7 +11,7 @@ Repo for myself to learn GitHub &amp; all about SwiftUI.
 
 ---
 **SHAPES** https://www.hackingwithswift.com/quick-start/swiftui/swiftuis-built-in-shapes
-   
+---
         Rectangle()
             .fill(Color.black)
             .frame(width: 200, height: 200)
@@ -38,8 +38,9 @@ Repo for myself to learn GitHub &amp; all about SwiftUI.
 **CONTROL FLOW**
 ---
 
+---
 **FOR IN LOOPS**
-
+---
 You use the for-in loop to iterate over a sequence, such as items in an array, ranges of numbers, or characters in a string.
 
         This example uses a for-in loop to iterate over the items in an array:
