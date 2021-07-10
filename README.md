@@ -1,7 +1,7 @@
 # swift-howto
 Repo for myself to learn GitHub &amp; all about SwiftUI.
 ---
-* **IMAGES** https://developer.apple.com/documentation/swiftui/image
+**IMAGES** https://developer.apple.com/documentation/swiftui/image
 
         Image("Landscape_4")
           .resizable()
@@ -9,7 +9,7 @@ Repo for myself to learn GitHub &amp; all about SwiftUI.
         Text("Water wheel")
 
 ---
-* **SHAPES** https://www.hackingwithswift.com/quick-start/swiftui/swiftuis-built-in-shapes
+**SHAPES** https://www.hackingwithswift.com/quick-start/swiftui/swiftuis-built-in-shapes
    
         Rectangle()
             .fill(Color.black)
