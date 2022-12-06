@@ -15,3 +15,9 @@
         Creating tabbar items
 
         https://www.hackingwithswift.com/quick-start/swiftui/adding-tabview-and-tabitem
+
+# Alert 
+        Button()
+        .alert("Invalid Login", isPresented: $showingAlert) {
+                Button("OK", role: .cancel) { }
+            }
