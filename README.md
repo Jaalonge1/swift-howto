@@ -33,3 +33,6 @@
                                 secondaryButton: .cancel()
                             )
                         }
+# Annotated state types 
+
+        https://www.hackingwithswift.com/quick-start/swiftui/whats-the-difference-between-observedobject-state-and-environmentobject
