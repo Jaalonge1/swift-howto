@@ -40,4 +40,5 @@
 # Dynamic lists
         https://www.hackingwithswift.com/quick-start/swiftui/how-to-create-a-list-of-dynamic-items
         
-        
+# Writing to Firestore Database
+        https://stackoverflow.com/questions/66695215/swiftui-show-the-data-fetched-from-firebase-in-view
