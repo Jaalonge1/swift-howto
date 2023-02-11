@@ -36,3 +36,8 @@
 # Annotated state types 
 
         https://www.hackingwithswift.com/quick-start/swiftui/whats-the-difference-between-observedobject-state-and-environmentobject
+        
+# Dynamic lists
+        https://www.hackingwithswift.com/quick-start/swiftui/how-to-create-a-list-of-dynamic-items
+        
+        
